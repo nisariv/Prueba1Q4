@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+body{
+	background-color: #fff;
+}
+#hero{
+	padding: 5%;
+}
+.amarillo{
+	background-color: #f4da7f;
+	padding: 1%;
+	font-weight: 700;
+	border-radius: 10px;
+}
+#hero h1{
+	font-size: 74px;
+	font-weight: 700;
+}
+.btn-contact{
+	background-color: #000;
+	color: #fff;
+	padding: 3% 4%;
+	border-radius: 0px;
+	margin-top: 2%;
+	letter-spacing: 1px;
+}
+.list-inline-item{
+	padding: 5%;
+}
+#about{
+	background-color: #cce4e4;
+	padding: 5%;
+}
+.azul{
+	background-color: #c9dbda;
+	padding: 1%;
+	font-weight: 700;
+	border-radius: 10px;
+}
+#about h2{
+	font-size: 55px;
+	font-weight: 700;
+	padding: 2% 0;
+}
+#about h5{
+	font-weight: 700;
+}
+p{
+	color: #4E4D4D;
+}
+ul{
+	list-style: none;
+}
+#wordlwide{
+	padding: 7%;
+	text-align: center;
+}
+.subtitulo{
+	font-size: 45px;
+	padding: 2% 0;
+	color: #0e0a2b;
+	font-weight: 700;
+}
+#subscribe{
+	background-color: #d6baf5;
+	padding: 5%;
+}
+.section{
+	padding: 4% 6%;
+}
+#subscribe input{
+	color: #e9ae9a;
+}
+footer{
+	padding: 5%;
+	color: #4E4D4D;
+}
